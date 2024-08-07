@@ -8,7 +8,8 @@ const paths = [
     "It is not the path which is the difficulty; rather, it is the difficulty which is the path.",
     "Sometimes the right path is not the easiest one.",
     "All paths are the same, leading nowhere. Therefore, pick a path with heart!",
-    "The path you take is up to you. Make good choices, dream big, it is never too late."
+    "The path you take is up to you. Make good choices, dream big, it is never too late.",
+    "May the bridges I burn light the way."
 ];
 
 const randomPath = paths[Math.floor(Math.random() * paths.length)];
