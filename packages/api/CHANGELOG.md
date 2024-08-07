@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/PukarGh/release-please-exercise/compare/fast-api-v0.1.0...fast-api-v0.1.1) (2024-08-07)
+
+
+### Chores
+
+* Add Method Documentation ([73b5c4e](https://github.com/PukarGh/release-please-exercise/commit/73b5c4e21b370629b40b2ceb6c906d09ccbcfcd7))
+
 ## [0.1.0](https://github.com/PukarGh/release-please-exercise/compare/fast-api-v0.0.1...fast-api-v0.1.0) (2024-08-07)
 
 
