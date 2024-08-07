@@ -3,7 +3,7 @@ name: 'Apps: Release Please'
 on:
   push:
     branches:
-      - maser
+      - main
 
 jobs:
   release-please:
@@ -12,4 +12,4 @@ jobs:
       - name: Run Release Please Action
         uses: googleapis/release-please-action@v4
         with:
-          target-branch: master
+          target-branch: main

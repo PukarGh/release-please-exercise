@@ -3,7 +3,7 @@ name: 'Packages: Release Please'
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   release-please:
@@ -13,6 +13,6 @@ jobs:
       - name: Run Release Please Action
         uses: googleapis/release-please-action@v4
         with:
-          target-branch: master
+          target-branch: main
           config-file: 'release-please-packages-config.json'
           manifest-file: '.release-please-packages-manifest.json'
