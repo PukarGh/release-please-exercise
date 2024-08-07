@@ -1,7 +1,7 @@
 {
   "release-type": "node",
   "packages": {
-    "packages/api": { "package-name": "path-finder" }
+    "packages/api": { "package-name": "fast-api" }
   },
   "separate-pull-requests": true,
   "label": "autorelease: pending,No Notification,Coding Exercise,Package",
