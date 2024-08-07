@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.2.0](https://github.com/PukarGh/release-please-exercise/compare/path-finder-v0.1.0...path-finder-v0.2.0) (2024-08-07)
+
+
+### Features
+
+* Add a New Path ([7ed92ed](https://github.com/PukarGh/release-please-exercise/commit/7ed92ed64be9c57714f647fae68735d128e05783))
+* Add a New Path to PathFinder ([fbedac4](https://github.com/PukarGh/release-please-exercise/commit/fbedac46789c5e58860d263b5e77e3cc251544f0))
+* Remove a Path from Path Finder ([cfc3c30](https://github.com/PukarGh/release-please-exercise/commit/cfc3c30faf55adfef1fa6f0fe1c5c2177d8cc2af))
+
+
+### Chores
+
+* **main:** release path-finder 0.1.0 ([#7](https://github.com/PukarGh/release-please-exercise/issues/7)) ([308fb14](https://github.com/PukarGh/release-please-exercise/commit/308fb147b275b6141d1f24ffbadc5f3db349d34d))
+
 ## [0.1.0](https://github.com/PukarGh/release-please-exercise/compare/path-finder-v0.0.1...path-finder-v0.1.0) (2024-08-07)
 
 
