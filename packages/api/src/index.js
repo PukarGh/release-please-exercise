@@ -1,3 +1,10 @@
+/**
+ * Send a Super fast request to the API
+ * @param endpoint
+ * @param method
+ * @param data
+ * @returns {Promise<Response>}
+ */
 const request = async (endpoint, method, data = {}) => {
     console.log('Fetching Data Super Fast ...');
     return fetch(`https://api.example.com/${endpoint}`, {
