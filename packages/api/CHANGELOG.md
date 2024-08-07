@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/PukarGh/release-please-exercise/compare/path-finder-v0.1.0...path-finder-v0.1.1) (2024-08-07)
+
+
+### Chores
+
+* remove Logging from API package ([3ebcdd7](https://github.com/PukarGh/release-please-exercise/commit/3ebcdd76c128dd7e9ae60bd8fbbe6601de4fcbad))
+
 ## [0.1.0](https://github.com/PukarGh/release-please-exercise/compare/path-finder-v0.0.1...path-finder-v0.1.0) (2024-08-07)
 
 
