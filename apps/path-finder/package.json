@@ -1,0 +1,18 @@
+{
+  "name": "path-finder",
+  "version": "0.0.1",
+  "description": "A app to help you find a path in the dark",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "keywords": [
+    "path"
+  ],
+  "author": "PukaarGh",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
