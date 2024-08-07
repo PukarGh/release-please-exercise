@@ -1,6 +1,6 @@
 {
   "name": "path-finder",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A app to help you find a path in the dark",
   "main": "index.js",
   "scripts": {
