@@ -1,0 +1,18 @@
+{
+  "release-type": "node",
+  "packages": {
+    "packages/api": { "package-name": "path-finder" }
+  },
+  "separate-pull-requests": true,
+  "label": "autorelease: pending,No Notification,Coding Exercise,Package",
+  "pull-request-header": ":sparkles: Package is Ready for Publishing :sparkles:",
+  "changelog-sections": [
+    { "type": "BREAKING CHANGE", "section": "⚠️ BREAKING CHANGES" },
+    { "type": "feat", "section": "Features" },
+    { "type": "fix", "section": "Bug Fixes" },
+    { "type": "bug", "section": "Bug Fixes" },
+    { "type": "docs", "section": "Chores" },
+    { "type": "deps", "section": "Chores" },
+    { "type": "chore", "section": "Chores" }
+  ]
+}

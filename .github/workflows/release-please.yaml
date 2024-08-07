@@ -1,0 +1,15 @@
+name: 'Apps: Release Please'
+
+on:
+  push:
+    branches:
+      - maser
+
+jobs:
+  release-please:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Release Please Action
+        uses: googleapis/release-please-action@v4
+        with:
+          target-branch: master

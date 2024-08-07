@@ -1,0 +1,18 @@
+name: 'Packages: Release Please'
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  release-please:
+    name: Release Please
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Release Please Action
+        uses: googleapis/release-please-action@v4
+        with:
+          target-branch: master
+          config-file: 'release-please-packages-config.json'
+          manifest-file: '.release-please-packages-manifest.json'
