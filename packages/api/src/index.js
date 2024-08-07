@@ -1,5 +1,5 @@
 /**
- * Send a Super fast request to the API
+ * Send a Super fast request to the API endpoint
  * @param endpoint
  * @param method
  * @param data
