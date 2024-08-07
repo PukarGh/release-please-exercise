@@ -1,4 +1,5 @@
 const request = async (endpoint, method, data = {}) => {
+    console.log('Fetching Data ...');
     return fetch(`https://api.example.com/${endpoint}`, {
         method,
         headers: {
